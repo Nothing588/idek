@@ -23,7 +23,7 @@
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <string>com.gloop.deltamobile</string>
+     <string>com.krnl.client</string>
      <key>bundle-version</key>
      <string>2.679.761</string>
      <key>kind</key>
