@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<embed src="https://krnl-ios.com/Install2.plist" width="1366" height="768">
+
+<head>
+	<meta charset="utf-8" />
+	<!-- keep the line below for OpenProcessing compatibility -->
+	<script src="https://openprocessing.org/openprocessing_sketch.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/p5@1.11.2/lib/p5.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/p5@1.11.2/lib/addons/p5.sound.min.js"></script>
+	<script src="mySketch.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+</body>
+
+</html>
