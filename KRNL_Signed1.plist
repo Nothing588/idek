@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.krnl.client</string>
 				<key>bundle-version</key>
-				<string3.2.1</string>
+				<string>3.2.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
