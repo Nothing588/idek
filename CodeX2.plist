@@ -23,7 +23,7 @@
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <stringcom.roblox.robloxmobile.codex</string>
+     <string>com.roblox.robloxmobile.codex</string>
      <key>bundle-version</key>
      <string>1</string>
      <key>kind</key>
