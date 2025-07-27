@@ -50,7 +50,7 @@
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>when you are done downloading click on DNS and change it to Anti-Revoke + Anti-Blacklist</string>
+    <string>When you are done downloading click on DNS and change it to Anti-Revoke + Anti-Blacklist</string>
     <key>PayloadDisplayName</key>
     <string>Antirevoke</string>
     <key>PayloadIdentifier</key>
